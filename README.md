@@ -1,4 +1,5 @@
 # Gestion du projet de création d'un portfolio
+![](https://github.com/Jordan-Giltien/creation_potfolio/blob/main/images/aeroworld.jpg)
 
 ## Contexte
 Data analyst dans un cabinet de consultants qui est sollicité par la société aéronautique Aéroworld pour l'accompagner dans son besoin en data.
